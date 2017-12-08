@@ -1,5 +1,5 @@
 $('html').addClass('js').removeClass('no-js');
-$.noConflict
+$.noConflict();
 
 (function($) {
   var song = new Audio('images/Spooky.mp3');
