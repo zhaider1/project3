@@ -87,7 +87,7 @@ audio {
 #navigation a {
   display: block;
   width: 100%;
-  padding-top: 0.611em; /*11/18 */
+  padding-top: 0.611em; /*11/18 is 0.611*/
   padding-bottom: 0.611em;
   text-align: center;
   text-decoration: none;
