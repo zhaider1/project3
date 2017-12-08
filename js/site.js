@@ -7,12 +7,12 @@ $.noConflict();
   function play() {
     song.play();
   }
-  /*$('#song').remove();*/
+}
 
   $('#spook').onclick(play);
 
   $(document).keypress(function(e) {
-    if(e.keyCode === 32) {
+    if(e.keyCode === 32)  { //spacebar is 32
       if(song.paused === true) {
         song.play();
       }
