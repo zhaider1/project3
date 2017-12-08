@@ -163,7 +163,10 @@ audio {
     width: 100%;
     text-align: center;
   }
-
+  #spook {
+    width: 100%;
+    float: left;
+  }
   #videogames {
     width: 47.5%;
     float: left;
