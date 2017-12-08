@@ -7,7 +7,7 @@ $.noConflict();
   function play() {
     song.play();
   }
-  $('#song').remove();
+  /*$('#song').remove();*/
 
   $('#spook').onclick(play);
 
