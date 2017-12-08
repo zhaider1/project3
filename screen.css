@@ -57,8 +57,7 @@ h2 {
   padding-bottom: 0.222em;
   text-decoration: underline;
 }
-h3 {
-  font-weight: bold;
+
 }
 li {
   padding-bottom: 0.577em;
@@ -163,10 +162,10 @@ audio {
     width: 100%;
     text-align: center;
   }
-  #spook {
+  /*#spook {
     width: 100%;
-    float: left;
   }
+  */
   #videogames {
     width: 47.5%;
     float: left;
