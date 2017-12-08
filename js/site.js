@@ -16,7 +16,7 @@ $.noConflict();
   }
 }
 
-  $('#spook').onclick(play);
+  $('#Spook').onclick(play);
 
   $(document).keypress(function(e) {
     if(e.keyCode === 32)  { //spacebar is 32
